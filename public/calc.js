@@ -64,7 +64,7 @@ var buildCalculator = function(){
   $table.append($tBody);
 
   $('.container').append($table);
-  $($table).wrap('<div class="col-md-6 offset-md-3" id="mainColumn"></div>');
+  $($table).wrap('<div class="col-md-6 col-md-offset-3" id="mainColumn"></div>');
   $('#mainColumn').wrap('<div class="row"></div>');
 
 }

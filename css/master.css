@@ -1,8 +1,22 @@
+body {
+    background-image: url('../images/background.jpg');
+}
+
+table {
+    font-weight: bold;
+    font-size: 1.5em;
+    background-color: #eee;
+}
+
+td {
+    border-width: 3px !important;
+}
+
 #display {
     text-align: right;
 }
 
-.number, .operator, .dot, #clear {
+.number, .operator, .dot, #clear, #sum, #dot {
     text-align: center;
 }
 
@@ -17,4 +31,14 @@
 
 .operator:hover, #clear:hover, #dot:hover, #sum:hover {
     background-color: #e5f5e5;
+}
+
+.row {
+    margin-top: 15%;
+}
+
+#display {
+    height: 2em;
+    font-weight: bolder;
+    font-size: 2em;
 }
