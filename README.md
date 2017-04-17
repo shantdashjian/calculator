@@ -26,7 +26,7 @@ http://shaundashjian.com:8080/Calculator/
   * Use the calculator for advanced scientific operations
   
 ## Stumbling and Learning Points:
-  * None
+  * The ability to assign event listeners to multilpe elements based on class
   <hr>
 
 [Up](README.md)
