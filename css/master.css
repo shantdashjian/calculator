@@ -9,11 +9,12 @@ table {
 }
 
 td {
-    border-width: 3px !important;
+    border-width: 8px !important;
 }
 
 #display {
     text-align: right;
+    background-color: #fff;
 }
 
 .number, .operator, .dot, #clear, #sum, #dot {
@@ -26,11 +27,11 @@ td {
 }
 
 .number:hover {
-    background-color: #e5e5f5;
+    background-color: #e5e5ff;
 }
 
 .operator:hover, #clear:hover, #dot:hover, #sum:hover {
-    background-color: #e5f5e5;
+    background-color: #e5ffe5;
 }
 
 .row {
