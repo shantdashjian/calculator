@@ -1,6 +1,7 @@
 # Calculator
 
 A JavaScript application to perform basic arithmetic operations.
+
 ![alt text](website.png "Calculator")
 
 ## In This Document:
