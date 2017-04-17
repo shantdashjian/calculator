@@ -1,0 +1,20 @@
+#display {
+    text-align: right;
+}
+
+.number, .operator, .dot, #clear {
+    text-align: center;
+}
+
+.table>tbody>tr>td:hover:not(#display) {
+    cursor: pointer;
+    cursor: hand;
+}
+
+.number:hover {
+    background-color: #e5e5f5;
+}
+
+.operator:hover, #clear:hover, #dot:hover, #sum:hover {
+    background-color: #e5f5e5;
+}
