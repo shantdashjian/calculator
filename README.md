@@ -12,7 +12,7 @@ A JavaScript application to perform basic arithmetic operations.
 6. [Stumbling and Learning Points](#stumbling-and-learning-points)
 
 ## Application URL
-Coming Soon!
+http://shaundashjian.com:8080/Calculator/
 
 ## How to Use the Application
 * User can click on buttons on the screen or press keyboard keys to enter numbers and operations
